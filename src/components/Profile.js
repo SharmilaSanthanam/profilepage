@@ -52,7 +52,7 @@ export default function App() {
                     <tr>
                         <th>Name</th>
                         <th>Email</th>
-                        <th></th>
+                       
                     </tr>
                 </thead>
                 <tbody>
